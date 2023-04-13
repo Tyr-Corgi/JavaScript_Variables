@@ -4,7 +4,30 @@ console.log(
 );
 
 // Exercise 1
-
 // Exercise 2
+const firstName = "Tyler";
+let lastName = `Gaisford`;
+var age = 34;
 
+console.log(`Hi, my name is ${firstName} ${lastName} and I am ${age} years old`);
 // Exercise 3
+let language = `Javascript`;
+let createdYear = 1995;
+let isCaseSensitive = true;
+
+console.log(`The ${language} language was created in ${createdYear} and it is ${isCaseSensitive} that it is case sensitive.`);
+
+//Exercise 4
+let price = 19.99
+let isOnSale = false;
+let salePercentage = 15;
+let stock = 0;
+let inStock = false;
+let selectedSize = "M";
+
+//Exercise 5
+let title = "Name of the Wind";
+let author = "patrick Rothuss";
+let pageCount = 722;
+let bookmark = 456;
+let hasRead = yes;
